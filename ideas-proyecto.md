@@ -30,12 +30,12 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Cómo funcionaría.**
 - Qué mide o detecta (sensor): [Mide el nivel de distancia que hay de el fondo del basurero hasta cierto límite.]
-- Qué hace con eso (actuador, aviso, pantalla): [Cuando llega al límite enciende una luz roja y envía una señal a los trabajadores de intendencia mostrando qué basurero es para que puedan ir a vaciarlo.]
-- Qué pieza habría que fabricar: [Un sensor que detecte objetos y un sistema que reciba esta señal y la envíe.]
+- Qué hace con eso (actuador, aviso, pantalla): [Utiliza un sensor que se pone a cierto nivel del basurero y detecta objetos a su mismo nivel, cuando detecta que hay algo en ese nivel el cual sería el límite enciende una luz roja y envía una señal a los trabajadores de intendencia mostrando qué basurero es para que puedan ir a vaciarlo.]
+- Qué pieza habría que fabricar: [Una carcasa impresa en 3d para proteger el sensor.]
 
 ---
 
-## Idea 2: [Nombre de la idea]
+## Idea 2: []
 
 **Problema.** [ ]
 
@@ -92,6 +92,6 @@ Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingenier�
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** [ChatGPT, GPT-5.6 Sol]
+- **Qué le pedí:** [Ayuda para solucionar un problema y apoyo para ideas.]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [No copié sus ideas y solo las utilicé como guía para pensar en las mías.]
