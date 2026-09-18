@@ -20,19 +20,18 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 1: [Nombre de la idea]
+## Idea 1: [Botes de basura inteligentes]
 
-**Problema.** [Dos o tres líneas. Qué está mal hoy, sin solución todavía.]
+**Problema.** [Los botes de basura de la escuela a veces llegan a saturarse demasiado durante el día dificultando poder depositar nuestra basura en el bote debido y teniendo que tirar la basura en un bote en el que no corresponde.]
 
-**A quién le pasa.** [Quién sufre el problema, de la forma más específica posible.]
+**A quién le pasa.** [A mis amigos, maestros y estudiantes de la universidad en general.]
 
-**Dónde lo he visto.** [Lugar y situación concretos que tú viste, no algo que leíste. Esta
-sección es obligatoria y no se puede resolver con una búsqueda.]
+**Dónde lo he visto.** [En los pasillos del Idit.]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [Mide el nivel de distancia que hay de el fondo del basurero hasta cierto límite.]
+- Qué hace con eso (actuador, aviso, pantalla): [Cuando llega al límite enciende una luz roja y envía una señal a los trabajadores de intendencia mostrando qué basurero es para que puedan ir a vaciarlo.]
+- Qué pieza habría que fabricar: [Un sensor que detecte objetos y un sistema que reciba esta señal y la envíe.]
 
 ---
 
