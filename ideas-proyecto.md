@@ -35,22 +35,22 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 2: []
+## Idea 2: [Dispensador automático de comida para mascotas]
 
-**Problema.** [ ]
+**Problema.** [A veces por estar ocupados con la uni, mi roomie y yo olvidamos darle comida y agua a nuestro gato.]
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** [A mi y a mi roomie.]
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** [En mi casa]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [El sensor detecta cuando el plato de comida está vacío.]
+- Qué hace con eso (actuador, aviso, pantalla): [Reproduce un audio de mi voz llamando a mi mascota para que venga a comer y rellena el plato automáticamente.]
+- Qué pieza habría que fabricar: [Un protector en 3d a prueba de animales para el sensor y el sistema dispensador.]
 
 ---
 
-## Idea 3: [Nombre de la idea]
+## Idea 3: [ ]
 
 **Problema.** [ ]
 
