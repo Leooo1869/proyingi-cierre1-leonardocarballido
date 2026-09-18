@@ -50,18 +50,18 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 3: [ ]
+## Idea 3: [Dispensadores de agua automáticos]
 
-**Problema.** [ ]
+**Problema.** [Los dispensadores de agua de la escuela son poco prácticos y tenemos que estar cambiando el garrafón a cada rato]
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** [Amigos de la universidad, a mi y a todos los alumnos en general.]
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** [En la universidad]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [Sensor que detecta cuando se le aproxima la botella de agua.]
+- Qué hace con eso (actuador, aviso, pantalla): [Al detectar la botella empieza a dispensar el agua de manera automática, al retirar la botella termina la acción.]
+- Qué pieza habría que fabricar: [Piezas fabricadas en 3d que formen parte de la estructura del dispensador.]
 
 ---
 
