@@ -45,8 +45,8 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Cómo funcionaría.**
 - Qué mide o detecta (sensor): [El sensor detecta cuando el plato de comida está vacío.]
-- Qué hace con eso (actuador, aviso, pantalla): [Reproduce un audio de mi voz llamando a mi mascota para que venga a comer y rellena el plato automáticamente.]
-- Qué pieza habría que fabricar: [Un protector en 3d a prueba de animales para el sensor y el sistema dispensador.]
+- Qué hace con eso (actuador, aviso, pantalla): [Rellena el plato automáticamente.]
+- Qué pieza habría que fabricar: [Un protector en 3d a prueba de animales para el sensor y el sistema del dispensador.]
 
 ---
 
@@ -61,7 +61,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 **Cómo funcionaría.**
 - Qué mide o detecta (sensor): [Sensor que detecta cuando se le aproxima la botella de agua.]
 - Qué hace con eso (actuador, aviso, pantalla): [Al detectar la botella empieza a dispensar el agua de manera automática, al retirar la botella termina la acción.]
-- Qué pieza habría que fabricar: [Piezas fabricadas en 3d que formen parte de la estructura del dispensador.]
+- Qué pieza habría que fabricar: [Una boquilla o soporte para botella fabricado mediante impresión 3D, diseñado para dirigir el agua y evitar salpicaduras.]
 
 ---
 
@@ -73,20 +73,19 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 | Criterio | Idea 1 | Idea 2 | Idea 3 |
 |---|---|---|---|
-| Problema concreto de mi entorno |a |a |a |
-| Parte física fabricable | | | |
-| Sensor o actuador | | | |
-| Construible en ocho sesiones por principiantes | | | |
-| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | | | |
+| Problema concreto de mi entorno |Sí |Sí |Sí |
+| Parte física fabricable |Sí |Sí |Sí |
+| Sensor o actuador |Sí |Sí |Sí |
+| Construible en ocho sesiones por principiantes |Sí |Sí |No |
+| Qué tan seguro estoy de lo anterior (alto / medio / bajo) |medio |medio |alto |
 
 ## Mi elección
 
-**Idea elegida:** [ ]
+**Idea elegida:** [Idea 2]
 
-**Por qué.** [Tres o cuatro líneas, apoyadas en la tabla.]
+**Por qué.** [Siento que es algo que podríamos realizar de una mejor manera ya que opino que es la idea más sencilla de las tres que se me ocurrieron, creo yo que es algo que en 8 sesiones seríamos capaces de desarrollar con asesoría del profesor.]
 
-**Qué todavía no sé.** [Lo que tendrías que averiguar o probar antes de comprometerte.
-Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingeniería.]
+**Qué todavía no sé.** [No sé cuál sería el mejor sensor y mecanismo para medir y dispensar automáticamente la cantidad correcta de alimento para la mascota, ni cómo calibrarlo para que las porciones sean precisas.]
 
 ---
 
