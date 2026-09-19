@@ -85,6 +85,6 @@
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [ChatGPT, GPT-5.6 Sol]
-- **Qué le pedí:** [Información adicional sobre mis funetes de información.]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [Resumí y modifiqué las respuestas y las adapté según lo que necesitaba.]
+- **Herramienta utilizada:** [ ChatGPT, GPT-5.6 Sol ]
+- **Qué le pedí:** [ Información adicional sobre mis funetes de información. ]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ Resumí y modifiqué las respuestas y las adapté según lo que necesitaba. ]

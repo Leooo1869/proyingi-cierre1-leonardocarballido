@@ -1,11 +1,7 @@
 # Tres ideas de proyecto
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
-> equipo decidirá con cuál se queda.
-
-**Autor:** [Leonardo Francisco Carballido Solano]
-**Fecha:** [17/09/2026 ]
+**Autor:** [ Leonardo Francisco Carballido Solano ]
+**Fecha:** [ 17/09/2026 ]
 
 ---
 
@@ -22,41 +18,41 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Idea 1: [Botes de basura inteligentes]
 
-**Problema.** [Los botes de basura de la escuela a veces llegan a saturarse demasiado durante el día dificultando poder depositar nuestra basura en el bote debido y teniendo que tirar la basura en un bote en el que no corresponde.]
+**Problema.** [ Los botes de basura de la escuela a veces llegan a saturarse demasiado durante el día dificultando poder depositar nuestra basura en el bote debido y teniendo que tirar la basura en un bote en el que no corresponde. ]
 
-**A quién le pasa.** [A mis amigos, maestros y estudiantes de la universidad en general.]
+**A quién le pasa.** [ A mis amigos, maestros y estudiantes de la universidad en general. ]
 
-**Dónde lo he visto.** [En los pasillos del Idit y de la universidad en general.]
+**Dónde lo he visto.** [ En los pasillos del Idit y de la universidad en general. ]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [Un sensor que mide qué tan lleno está el bote.]
-- Qué hace con eso (actuador, aviso, pantalla): [Cuando está lleno enciende un aluz roja y envía una señal a los de limpieza para que el bote sea vaciado.]
-- Qué pieza habría que fabricar: [Una carcasa impresa en 3d para proteger el sensor.]
+- Qué mide o detecta (sensor): [ Un sensor que mide qué tan lleno está el bote. ]
+- Qué hace con eso (actuador, aviso, pantalla): [ Cuando está lleno enciende un aluz roja y envía una señal a los de limpieza para que el bote sea vaciado. ]
+- Qué pieza habría que fabricar: [ Una carcasa impresa en 3d para proteger el sensor. ]
 
 ---
 
 ## Idea 2: [Dispensador automático de comida para mascotas]
 
-**Problema.** [A veces por estar ocupados con la uni, mi roomie y yo olvidamos darle comida y agua a nuestro gato.]
+**Problema.** [ A veces por estar ocupados con la uni, mi roomie y yo olvidamos darle comida y agua a nuestro gato. ]
 
-**A quién le pasa.** [A mi y a mi roomie.]
+**A quién le pasa.** [ A mi y a mi roomie. ]
 
-**Dónde lo he visto.** [En mi casa]
+**Dónde lo he visto.** [ En mi casa ]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [El sensor detecta cuando el plato de comida está vacío.]
-- Qué hace con eso (actuador, aviso, pantalla): [Rellena el plato automáticamente.]
-- Qué pieza habría que fabricar: [Un protector en 3d a prueba de animales para el sensor y el sistema del dispensador.]
+- Qué mide o detecta (sensor): [ El sensor detecta cuando el plato de comida está vacío. ]
+- Qué hace con eso (actuador, aviso, pantalla): [ Rellena el plato automáticamente. ]
+- Qué pieza habría que fabricar: [ Un protector en 3d a prueba de animales para el sensor y el sistema del dispensador. ]
 
 ---
 
 ## Idea 3: [Sistema inteligente de disponibilidad de casilleros]
 
-**Problema.** [Es difícil saber rápidamente qué casilleros están disponibles y cuáles ya han sido rentados.]
+**Problema.** [ Es difícil saber rápidamente qué casilleros están disponibles y cuáles ya han sido rentados. ]
 
-**A quién le pasa.** [A mi, amigos, alumnos de la universidad.]
+**A quién le pasa.** [ A mi, amigos, alumnos de la universidad.]
 
-**Dónde lo he visto.** [En la universidad]
+**Dónde lo he visto.** [ En la universidad. ]
 
 **Cómo funcionaría.**
 - Qué mide o detecta (sensor): [Un sistema que registra cuáles casilleros han sido rentados y cuáles siguen disponibles.]
@@ -83,14 +79,14 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Idea elegida:** [Botes de basura inteligentes]
 
-**Por qué.** [Siento que es algo que podríamos realizar de una mejor manera ya que opino que es la idea más sencilla de las tres ideas que propuse, creo yo que es algo que en 8 sesiones seríamos capaces de desarrollar con asesoría del profesor.]
+**Por qué.** [ Siento que es algo que podríamos realizar de una mejor manera ya que opino que es la idea más sencilla de las tres ideas que propuse, creo yo que es algo que en 8 sesiones seríamos capaces de desarrollar con asesoría del profesor. ]
 
-**Qué todavía no sé.** [No sé cuál sería el mejor sensor y mecanismo para medir la cantidad de basura en los botes, ni cómo calibrarlo para que este sea preciso y envíe una señal de alerta.]
+**Qué todavía no sé.** [ No sé cuál sería el mejor sensor y mecanismo para medir la cantidad de basura en los botes, ni cómo calibrarlo para que este sea preciso y envíe una señal de alerta. ]
 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [ChatGPT, GPT-5.6 Sol]
-- **Qué le pedí:** [Ayuda para solucionar un problema y apoyo para ideas.]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [Modifiqué una idea para hacerla más simple ya que lo que me daba era más complejo.]
+- **Herramienta utilizada:** [ ChatGPT, GPT-5.6 Sol ]
+- **Qué le pedí:** [ Ayuda para solucionar un problema, apoyo para ideas. ]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ Resumí y modifiqué las respuestas y las adapté según lo que necesitaba. ]

@@ -1,22 +1,18 @@
 # Proyecto de Ingeniería I — Bitácora personal
 
-**Nombre:** [Leonardo Francisco Carballido Solano]
+**Nombre:** [ Leonardo Francisco Carballido Solano ]
 **Carrera:** Ingeniería en Sistemas Computacionales
 **Materia:** Proyecto de Ingeniería I (LIIB2101) — Otoño 2026
 **Profesor:** Mtro. Rafael Pérez Aguirre
-**Equipo:** [Backyardigans]
+**Equipo:** [ Backyardigans ]
 
 ---
 
 ## Sobre mí
 
-[Soy de Oaxaca de Juárez, Oaxaca, escogí la carrera de Ingeniería en Sistemas Computacionales ya que me interesa mucho el tema de las computadoras, tanto el software como el hardware y mi objetivo en la carrea es aprender más sobre estos temas así como aprender más sobre la programación y creación de software.]
+[ Soy de Oaxaca de Juárez, Oaxaca, escogí la carrera de Ingeniería en Sistemas Computacionales ya que me interesa mucho el tema de las computadoras, tanto el software como el hardware y mi objetivo en la carrea es aprender más sobre estos temas así como aprender más sobre la programación y creación de software. ]
 
 ## Contenido de este repositorio
-
-> Instrucción: si estás trabajando dentro de tu vault de Obsidian, puedes usar enlaces
-> internos con dobles corchetes, por ejemplo [[ideas-proyecto]]. Si estás trabajando
-> directamente en GitHub, deja los enlaces como están abajo.
 
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
@@ -40,6 +36,6 @@
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** ["No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** [ChatGPT, GPT-5.6 Sol]
+- **Qué le pedí:** [ Información adicional sobre mis funetes de información. ]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ Resumí y modifiqué las respuestas y las adapté según lo que necesitaba. ]
