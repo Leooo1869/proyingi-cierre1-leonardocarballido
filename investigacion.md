@@ -6,7 +6,7 @@
 
 **Autor:** [Leonardo Francisco Carballido Solano]
 **Fecha:** [19/09/2026 ]
-**Ideas analizadas:** ver (ideas-proyecto.md)
+**Ideas analizadas:** ver [(ideas-proyecto.md)]
 
 ---
 
