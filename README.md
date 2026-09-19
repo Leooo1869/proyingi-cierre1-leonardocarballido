@@ -1,9 +1,13 @@
 # Proyecto de Ingeniería I — Bitácora personal
 
 **Nombre:** [ Leonardo Francisco Carballido Solano ]
+
 **Carrera:** Ingeniería en Sistemas Computacionales
+
 **Materia:** Proyecto de Ingeniería I (LIIB2101) — Otoño 2026
+
 **Profesor:** Mtro. Rafael Pérez Aguirre
+
 **Equipo:** [ Backyardigans ]
 
 ---
