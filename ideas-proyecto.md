@@ -73,7 +73,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 | Criterio | Idea 1 | Idea 2 | Idea 3 |
 |---|---|---|---|
-| Problema concreto de mi entorno | | | |
+| Problema concreto de mi entorno |a |a |a |
 | Parte física fabricable | | | |
 | Sensor o actuador | | | |
 | Construible en ocho sesiones por principiantes | | | |
