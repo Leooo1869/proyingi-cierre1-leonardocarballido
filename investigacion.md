@@ -5,7 +5,7 @@
 > criterio correspondiente.
 
 **Autor:** [Leonardo Francisco Carballido Solano]
-**Fecha:** [19/09/2026 ]
+**Fecha:** [19/09/2026]
 **Ideas analizadas:** ver [ideas-proyecto.md](ideas-proyecto.md)
 
 ---
@@ -49,55 +49,42 @@
 
 | Campo | Contenido |
 |---|---|
-| Autor u organización | [ ] |
-| Título | [ ] |
-| Año | [ ] |
-| Enlace | [ ] |
-| Tipo | [sitio institucional / nota periodística / documentación técnica / blog / video / foro] |
-| Por qué le creo | [ ] |
-| Qué dato me dio | [ ] |
+| Autor u organización | [Contelogic] |
+| Título | [Cómo los contenedores inteligentes revolucionan la limpieza urbana] |
+| Año | [2024] |
+| Enlace | [https://contelogic.com/como-los-contenedores-inteligentes-revolucionan-la-limpieza-urbana/] |
+| Tipo | [Blog] |
+| Por qué le creo | [Porque es una empresa especializada en contenedores y gestión de residuos, y el artículo explica de manera técnica el funcionamiento y las aplicaciones de los contenedores inteligentes.] |
+| Qué dato me dio | [Los contenedores inteligentes utilizan sensores para monitorear el nivel de llenado y envían los datos a una plataforma central. Esto permite saber cuándo necesitan ser vaciados, evitar desbordamientos y optimizar las rutas de recolección.] |
 
 ### Fuente 2
 
 | Campo | Contenido |
 |---|---|
-| Autor u organización | [ ] |
-| Título | [ ] |
-| Año | [ ] |
-| Enlace | [ ] |
-| Tipo | [ ] |
-| Por qué le creo | [ ] |
-| Qué dato me dio | [ ] |
-
-### Fuente 3 (opcional)
-
-| Campo | Contenido |
-|---|---|
-| Autor u organización | [ ] |
-| Título | [ ] |
-| Año | [ ] |
-| Enlace | [ ] |
-| Tipo | [ ] |
-| Por qué le creo | [ ] |
-| Qué dato me dio | [ ] |
+| Autor u organización | [Shenzhen RF-star Technology Co., Ltd. (RF-star)] |
+| Título | [Un esquema de bote de basura inteligente basado en el algoritmo LoRa TDMA] |
+| Año | [2021] |
+| Enlace | [https://es.rfstariot.com/blog/an-intelligent-garbage-can-scheme-based-on-lora-tdma-algorithm_b5] |
+| Tipo | [Blog/Documentación técnica] |
+| Por qué le creo | [Porque RF-star es una empresa dedicada al desarrollo de tecnologías de comunicación inalámbrica e IoT y explica técnicamente cómo se pueden integrar sensores y comunicación LoRa en un bote de basura inteligente.] |
+| Qué dato me dio | [Un bote de basura inteligente puede utilizar sensores para detectar el nivel de llenado, olores y temperatura. Los datos pueden enviarse mediante una red LoRa a un servidor para monitorear los contenedores a distancia y mejorar las rutas de recolección.] |
 
 ---
 
 ## Parte 3. Qué haría distinto
 
-[Cuatro o cinco líneas: qué cambia tu propuesta respecto a lo que ya existe. Puede ser el
-costo, el contexto donde funciona, la forma de avisar, el material, quién lo usa.]
+[Mi propuesta sería crear un bote de basura inteligente sencillo y de bajo costo, pensado principalmente para mi universidad. A diferencia de otros sistemas más complejos, utilizaría únicamente un sensor para detectar el nivel de basura y avisaría cuando el bote esté lleno mediante una luz o notificación.]
 
 ## Parte 4. Qué me falta averiguar
 
-- [ ] [Pregunta técnica que no pude resolver hoy]
-- [ ] [Dato que no encontré]
-- [ ] [Algo que tendría que medir o probar en persona]
+- [ ] [¿Qué sensor sería el más adecuado y económico para detectar correctamente el nivel de basura?]
+- [ ] [Cuánto costaría fabricar un prototipo completo del bote inteligente con todos sus componentes.]
+- [ ] [Probar a qué distancia debe colocarse el sensor para detectar correctamente cuándo el bote está vacío, a la mitad o lleno.]
 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** [ChatGPT, GPT-5.6 Sol]
+- **Qué le pedí:** [Información adicional sobre mis funetes de información.]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [Resumí sus respuestas.]
