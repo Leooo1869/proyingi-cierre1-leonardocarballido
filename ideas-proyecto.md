@@ -26,11 +26,11 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **A quién le pasa.** [A mis amigos, maestros y estudiantes de la universidad en general.]
 
-**Dónde lo he visto.** [En los pasillos del Idit.]
+**Dónde lo he visto.** [En los pasillos del Idit y de la universidad en general.]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [Mide el nivel de distancia que hay de el fondo del basurero hasta cierto límite.]
-- Qué hace con eso (actuador, aviso, pantalla): [Utiliza un sensor que se pone a cierto nivel del basurero y detecta objetos a su mismo nivel, cuando detecta que hay algo en ese nivel el cual sería el límite enciende una luz roja y envía una señal a los trabajadores de intendencia mostrando qué basurero es para que puedan ir a vaciarlo.]
+- Qué mide o detecta (sensor): [Un sensor que mide qué tan lleno está el bote.]
+- Qué hace con eso (actuador, aviso, pantalla): [Cuando está lleno enciende un aluz roja y envía una señal a los de limpieza para que el bote sea vaciado.]
 - Qué pieza habría que fabricar: [Una carcasa impresa en 3d para proteger el sensor.]
 
 ---
@@ -50,18 +50,18 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 3: [Dispensadores de agua automáticos]
+## Idea 3: [Sistema inteligente de disponibilidad de casilleros]
 
-**Problema.** [Los dispensadores de agua de la escuela son poco prácticos y tenemos que estar cambiando el garrafón a cada rato]
+**Problema.** [Es difícil saber rápidamente qué casilleros están disponibles y cuáles ya han sido rentados.]
 
-**A quién le pasa.** [Amigos de la universidad, a mi y a todos los alumnos en general.]
+**A quién le pasa.** [A mi, amigos, alumnos de la universidad.]
 
 **Dónde lo he visto.** [En la universidad]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [Sensor que detecta cuando se le aproxima la botella de agua.]
-- Qué hace con eso (actuador, aviso, pantalla): [Al detectar la botella empieza a dispensar el agua de manera automática, al retirar la botella termina la acción.]
-- Qué pieza habría que fabricar: [Una boquilla o soporte para botella fabricado mediante impresión 3D, diseñado para dirigir el agua y evitar salpicaduras.]
+- Qué mide o detecta (sensor): [Un sistema que registra cuáles casilleros han sido rentados y cuáles siguen disponibles.]
+- Qué hace con eso (actuador, aviso, pantalla): [Muestra en la pantalla si el casillero está ocupado, si es así enciende una luz verde encima de este.]
+- Qué pieza habría que fabricar: [Una carcasa para la pantalla impresa en 3d.]
 
 ---
 
@@ -81,11 +81,11 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Mi elección
 
-**Idea elegida:** [Idea 2]
+**Idea elegida:** [Botes de basura inteligentes]
 
-**Por qué.** [Siento que es algo que podríamos realizar de una mejor manera ya que opino que es la idea más sencilla de las tres que se me ocurrieron, creo yo que es algo que en 8 sesiones seríamos capaces de desarrollar con asesoría del profesor.]
+**Por qué.** [Siento que es algo que podríamos realizar de una mejor manera ya que opino que es la idea más sencilla de las tres ideas que propuse, creo yo que es algo que en 8 sesiones seríamos capaces de desarrollar con asesoría del profesor.]
 
-**Qué todavía no sé.** [No sé cuál sería el mejor sensor y mecanismo para medir y dispensar automáticamente la cantidad correcta de alimento para la mascota, ni cómo calibrarlo para que las porciones sean precisas.]
+**Qué todavía no sé.** [No sé cuál sería el mejor sensor y mecanismo para medir la cantidad de basura en los botes, ni cómo calibrarlo para que este sea preciso y envíe una señal de alerta.]
 
 ---
 
@@ -93,4 +93,4 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 - **Herramienta utilizada:** [ChatGPT, GPT-5.6 Sol]
 - **Qué le pedí:** [Ayuda para solucionar un problema y apoyo para ideas.]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [No copié sus ideas y solo las utilicé como guía para pensar en las mías.]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [Modifiqué una idea para hacerla más simple ya que lo que me daba era más complejo.]
