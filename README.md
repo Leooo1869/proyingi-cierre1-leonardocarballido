@@ -1,21 +1,16 @@
 # Proyecto de Ingeniería I — Bitácora personal
 
-> Instrucción: sustituye todo lo que está entre corchetes por tu propio contenido y borra
-> todas las líneas que empiezan con "Instrucción:". Este archivo es el índice de tu
-> repositorio y sustituye la portada de la entrega.
-
-**Nombre:** [Tu nombre completo]
+**Nombre:** [Leonardo Francisco Carballido Solano]
 **Carrera:** Ingeniería en Sistemas Computacionales
 **Materia:** Proyecto de Ingeniería I (LIIB2101) — Otoño 2026
 **Profesor:** Mtro. Rafael Pérez Aguirre
-**Equipo:** [Nombre o número de tu equipo]
+**Equipo:** [Backyardigans]
 
 ---
 
 ## Sobre mí
 
-[De dos a cuatro líneas: de dónde eres, por qué elegiste Sistemas Computacionales y qué
-esperas construir en esta carrera.]
+[Soy de Oaxaca de Juárez, Oaxaca, escogí la carrera de Ingeniería en Sistemas Computacionales ya que me interesa mucho el tema de las computadoras, tanto el software como el hardware y mi objetivo en la carrea es aprender más sobre estos temas así como aprender más sobre la programación y creación de software.]
 
 ## Contenido de este repositorio
 
@@ -30,23 +25,21 @@ esperas construir en esta carrera.]
 
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 |---|---|---|
-| Markdown | [ ] | [Sí / No / A medias] |
-| Obsidian | [ ] | [Sí / No / A medias] |
-| Git | [ ] | [Sí / No / A medias] |
-| GitHub | [ ] | [Sí / No / A medias] |
+| Markdown | [Resaltar texto, dar formato y mejorar la presentación del texto.] | [Sí] |
+| Obsidian | [Tomar notas importantes de clase.] | [Sí] |
+| Git | [Añadir archivos a mis repositorios, subir mis cambios a los archivos dentro de mis repositorios.] | [Sí] |
+| GitHub | [Crear repositorios y ver los cambios que subo desde Git.] | [Sí] |
 
 ## Cómo voy en el curso
 
-- [ ] [Algo que ya logré]
-- [ ] [Algo que todavía no me sale]
-- [ ] [Algo que quiero aprender en lo que queda del semestre]
+- [ ] [Aprendí a utilizar Markdown, a hacer repositorios en GitHub y editarlos desde Visual Studio Code, aprendí a utilizar la terminal de Git Bash para clonar repositorios entre más.]
+- [ ] [De momento me ha salido todo lo que hacemos en clase.]
+- [ ] [Aprender a hacer cosas más complejas.]
 
 ---
 
 ## Declaración de uso de IA
 
-> Instrucción: obligatoria en los tres archivos. Si no usaste IA, escríbelo explícitamente.
-
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
+- **Herramienta utilizada:** ["No se utilizó IA generativa en esta entrega"]
 - **Qué le pedí:** [ ]
 - **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
