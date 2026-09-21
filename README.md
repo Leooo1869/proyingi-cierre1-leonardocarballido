@@ -8,7 +8,7 @@
 
 **Profesor:** Mtro. Rafael Pérez Aguirre
 
-**Equipo:** [ Backyardigans ]
+**Equipo:** [  ]
 
 ---
 
