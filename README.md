@@ -20,6 +20,7 @@
 
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
+- [idea-elegida](idea elegida.md) - idea que escogí para empezar a trabajar
 
 ## Herramientas que estoy usando
 
