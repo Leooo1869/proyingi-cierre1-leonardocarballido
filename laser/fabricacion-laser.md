@@ -1,6 +1,6 @@
 # Fabricación de caja mediante corte láser
 
-## 3. Parámetros 
+## 1. Parámetros 
 
 - **Ancho:** 50 mm
 - **Alto:** 60 mm
@@ -9,7 +9,7 @@
 - **Material utilizado:** [ MDF ]
 - **Número de piezas:** 5
 
-## 5. Medición del kerf
+## 2. Medición del kerf
 
 El kerf es el ancho de material que elimina el láser durante el corte, es importante considerarlo para lograr que las piezas ensamblen correctamente.
 t
