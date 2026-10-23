@@ -6,7 +6,7 @@
 - **Alto:** 60 mm
 - **Profundidad:** 50 mm
 - **Espesor del material:** [ 3 ] mm
-- **Material utilizado:** [ mdf ]
+- **Material utilizado:** [ MDF ]
 - **Número de piezas:** 5
 
 ## 5. Medición del kerf
@@ -17,6 +17,4 @@ t
 
 Kerf = Medida original - Medida real
 
-Kerf = [ 3 ] mm - [ 0.175 ] mm = [ 2.825 ] mm
-
-
+Kerf = [ 3 ] mm - [ 2.825 ] mm = [ 0.175 ] mm
